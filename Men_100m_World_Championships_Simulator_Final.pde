@@ -2,7 +2,7 @@
 
  Author: Ricky Tang
  Date: October 10th, 2024
- Purpose: This program takes in the top 56 athletes as of October 8th 2024. It simulates a brilliant matchup
+ Purpose: This program takes in the top 56 athletes as of October 15th 2024. It simulates a brilliant matchup
  between them by computing the weather, health, and other effects.
  You can either choose the commenting in console or animation in graphics. But no matter what you will have a full
  "Professional results booklet" in .txt exported
