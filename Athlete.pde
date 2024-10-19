@@ -84,9 +84,14 @@ class Athlete
     String def_str = (this.defending_champ) ? "DEFENDING CHAMPION" : "";
     
     if (index == 1) // since this is round 1 we don't have any previous results, we display just SB
+    {
       pw.println( custom_tab(this.name, 30) + this.nationality + "\t" + str( this.SB ) + "\t" + str( this.lanes[index - 1]) + "\t" + def_str);
+    }
     else
-      pw.println( custom_tab(this.name, 30) + this.nationality + "\t" + str( round_to(this.results[index - 2], 3) ) + "\t" + str( this.lanes[index - 1]) + "\t" + def_str );
+    {
+      String prev = nf( round_to(this.results[index - 2], 3), 0, 3 );
+      pw.println( custom_tab(this.name, 30) + this.nationality + "\t" + prev + "\t" + str( this.lanes[index - 1]) + "\t" + def_str );
+    }
   }
   
   
@@ -122,7 +127,7 @@ class Athlete
     }
     else
     {
-      result_str = str( round_to(this.results[index - 1], 3) );
+      result_str = nf( round_to(this.results[index - 1], 3), 0, 3 );
     }
     
     
@@ -166,9 +171,12 @@ class Athlete
   {
     // display the title, name, ranking, nationality, and PB + SB
     
+    String pb_str = nf( this.PB, 0, 2 );
+    String sb_str = nf( this.SB, 0, 3 );
+    
     String def_str = (this.defending_champ) ? ", also the defending champion!" : "";
     println("World rank No." + str(this.world_rank) + ", " + this.name + " from " + this.nationality + ", with a personal best of "
-    + str(this.PB) + " and season's best of " + str(this.SB) + def_str);
+    + pb_str + " and season's best of " + sb_str + def_str);
   }
   
   
@@ -179,7 +187,8 @@ class Athlete
     // display the qualifier type and result
     
     String qualify_str = (this.qualifys[index-1] == "Q") ? "Automatic Qualifier" : "Secondary Qualifier";
-    println( custom_tab(this.name, 30) + custom_tab(  str( round_to(this.results[index-1], 3) ), 10  ) + qualify_str);
+    String result_str = nf( round_to(this.results[index-1], 3), 0, 3 );
+    println( custom_tab(this.name, 30) + custom_tab( result_str , 10  ) + qualify_str);
   }
   
   
@@ -202,7 +211,7 @@ class Athlete
     }
     else
     {
-      String result_str = str( round_to(this.results[index - 1], 3) ) + "s.";
+      String result_str = nf( round_to(this.results[index - 1], 3), 0, 3 ) + "s.";
       
       String breakthrough = (this.break_PB[index - 1]) ? " And a new personal best! Hooray!" : "";
       

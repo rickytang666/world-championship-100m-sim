@@ -19,80 +19,80 @@ Name                           Nat.	SB	Lane
 -------------------------------------------------------------------------------------------------
 Heat 1
 -------------------------------------------------------------------------------------------------
-Fred KERLEY                    USA	9.81	1	
-Ackeem BLAKE                   JAM	9.89	2	
-Rohan WATSON                   JAM	10.07	3	
-Wanya MCCOY                    BAH	10.02	4	
-Kayinsola AJAYI                NGR	10.0	5	
-Duan ASEMOTA                   CAN	10.03	6	
-Pablo MATEO                    FRA	10.08	7	
-Chituru ALI                    ITA	9.96	8	
+Kendal WILLIAMS                USA	9.93	1	
+Erik CARDOSO                   BRA	10.07	2	
+Benjamin RICHARDSON            RSA	9.86	3	
+Simon HANSEN                   DEN	10.11	4	
+Lamont Marcell JACOBS          ITA	9.85	5	
+Andre DE GRASSE                CAN	9.98	6	
+Abdul-Rasheed SAMINU           GHA	10.02	7	
+Pjai AUSTIN                    USA	9.94	8	
 
 Heat 2
 -------------------------------------------------------------------------------------------------
-Simon VERHERSTRAETEN           BEL	10.06	1	
-Emmanuel ESEME                 CMR	9.98	2	
-Kyree KING                     USA	9.97	3	
-Christian COLEMAN              USA	9.86	4	
-Favour Oghene Tejiri ASHE      NGR	9.94	5	
-Romell GLAVE                   GBR	10.05	6	
-Jose GONZALEZ                  DOM	10.09	7	
-Felipe BARDI                   BRA	10.0	8	
+Christian MILLER               USA	9.93	1	
+Emmanuel MATADI                LBR	9.91	2	
+Rohan WATSON                   JAM	10.07	3	
+Courtney LINDSEY               USA	9.97	4	
+Christian COLEMAN              USA	9.86	5	
+Akihiro HIGASHIDA              JPN	10.14	6	
+Duan ASEMOTA                   CAN	10.03	7	
+Kenneth BEDNAREK               USA	9.87	8	
 
 Heat 3
 -------------------------------------------------------------------------------------------------
-Brandon HICKLIN                USA	9.94	1	
-Kenneth BEDNAREK               USA	9.87	2	
-Akihiro HIGASHIDA              JPN	10.14	3	
-Akani SIMBINE                  RSA	9.82	4	
-Aaron BROWN                    CAN	10.1	5	
-Pjai AUSTIN                    USA	9.94	6	
-Ali Anwar Ali AL BALUSHI       OMA	10.14	7	
-Kendal WILLIAMS                USA	9.93	8	
+Ferdinand OMANYALA             KEN	9.79	1	
+Ronnie BAKER                   USA	9.95	2	
+Jose GONZALEZ                  DOM	10.09	3	
+Pablo MATEO                    FRA	10.08	4	
+Chituru ALI                    ITA	9.96	5	
+Jerome BLAKE                   CAN	10.01	6	
+Akani SIMBINE                  RSA	9.82	7	
+Favour Oghene Tejiri ASHE      NGR	9.94	8	
 
 Heat 4
 -------------------------------------------------------------------------------------------------
-Letsile TEBOGO                 BOT	9.86	1	
-Joseph FAHNBULLEH              LBR	10.0	2	
-Hiroki YANAGITA                JPN	10.02	3	
-Usheoritse ITSEKIRI            NGR	10.05	4	
-Louie HINCHLIFFE               GBR	9.95	5	
-Andre DE GRASSE                CAN	9.98	6	
-Abdul-Rasheed SAMINU           GHA	10.02	7	
-Ryiem FORDE                    JAM	10.02	8	
+Owen ANSAH                     GER	9.99	1	
+Felipe BARDI                   BRA	10.0	2	
+Shaun MASWANGANYI              RSA	10.02	3	
+Rikkoi BRATHWAITE              IVB	10.0	4	
+Jeremiah AZU                   GBR	9.97	5	
+Abdul Hakim SANI-BROWN         JPN	9.96	6	
+Letsile TEBOGO                 BOT	9.86	7	
+Aaron BROWN                    CAN	10.1	8	
 
 Heat 5
 -------------------------------------------------------------------------------------------------
-Oblique SEVILLE                JAM	9.81	1	
-Sandrey DAVISON                JAM	10.0	2	
-Jerome BLAKE                   CAN	10.01	3	
-Shaun MASWANGANYI              RSA	10.02	4	
-Noah LYLES                     USA	9.79	5	DEFENDING CHAMPION
-Jeremiah AZU                   GBR	9.97	6	
-Benjamin AZAMATI               GHA	10.05	7	
-Courtney LINDSEY               USA	9.97	8	
+Julian FORTE                   JAM	10.0	1	
+Kyree KING                     USA	9.97	2	
+Emmanuel ESEME                 CMR	9.98	3	
+Romell GLAVE                   GBR	10.05	4	
+Kishane THOMPSON               JAM	9.77	5	
+Wanya MCCOY                    BAH	10.02	6	
+Joshua HARTMANN                GER	10.06	7	
+Ryiem FORDE                    JAM	10.02	8	
 
 Heat 6
 -------------------------------------------------------------------------------------------------
-Erik CARDOSO                   BRA	10.07	1	
-Abdul Hakim SANI-BROWN         JPN	9.96	2	
-Julian FORTE                   JAM	10.0	3	
-Rikkoi BRATHWAITE              IVB	10.0	4	
-Simon HANSEN                   DEN	10.11	5	
-Joshua HARTMANN                GER	10.06	6	
-Benjamin RICHARDSON            RSA	9.86	7	
-Kishane THOMPSON               JAM	9.77	8	
+Hiroki YANAGITA                JPN	10.02	1	
+Simon VERHERSTRAETEN           BEL	10.06	2	
+Fred KERLEY                    USA	9.81	3	
+Benjamin AZAMATI               GHA	10.05	4	
+Ali Anwar Ali AL BALUSHI       OMA	10.14	5	
+Brandon HICKLIN                USA	9.94	6	
+Henrik LARSSON                 SWE	10.08	7	
+Oblique SEVILLE                JAM	9.81	8	
 
 Heat 7
 -------------------------------------------------------------------------------------------------
-Emmanuel MATADI                LBR	9.91	1	
-Christian MILLER               USA	9.93	2	
-Owen ANSAH                     GER	9.99	3	
-Lamont Marcell JACOBS          ITA	9.85	4	
-Ronnie BAKER                   USA	9.95	5	
-Ferdinand OMANYALA             KEN	9.79	6	
-Kayhan OZER                    TUR	10.17	7	
-Henrik LARSSON                 SWE	10.08	8	
+Kayhan OZER                    TUR	10.17	1	
+Joseph FAHNBULLEH              LBR	10.0	2	
+Louie HINCHLIFFE               GBR	9.95	3	
+Kayinsola AJAYI                NGR	10.0	4	
+Noah LYLES                     USA	9.79	5	DEFENDING CHAMPION
+Usheoritse ITSEKIRI            NGR	10.05	6	
+Ackeem BLAKE                   JAM	9.89	7	
+Sandrey DAVISON                JAM	10.0	8	
 
 
 *************************************************************************************************
@@ -102,88 +102,88 @@ Round-1 Results
 Name                           Nat.	Lane	Mark	Qual.
 -------------------------------------------------------------------------------------------------
 Heat 1
-Wind: 0.3 m/s	Temp: 22.7 ℃	Humid: 75%
+Wind: 0.4 m/s	Temp: 18.6 ℃	Humid: 76%
 -------------------------------------------------------------------------------------------------
-Fred KERLEY                    USA	1	9.899	Q	
-Ackeem BLAKE                   JAM	2	9.955	Q	
-Chituru ALI                    ITA	8	10.077	Q	
-Kayinsola AJAYI                NGR	5	10.093	out	
-Wanya MCCOY                    BAH	4	10.1	out	
-Duan ASEMOTA                   CAN	6	10.101	out	
-Pablo MATEO                    FRA	7	10.124	out	
-Rohan WATSON                   JAM	3	10.171	out	
+Kendal WILLIAMS                USA	1	9.969	Q	
+Lamont Marcell JACOBS          ITA	5	9.970	Q	
+Pjai AUSTIN                    USA	8	10.014	Q	
+Benjamin RICHARDSON            RSA	3	10.030	out	
+Abdul-Rasheed SAMINU           GHA	7	10.070	out	
+Andre DE GRASSE                CAN	6	10.080	out	
+Simon HANSEN                   DEN	4	10.129	out	
+Erik CARDOSO                   BRA	2	DQ	out	
 
 Heat 2
-Wind: -0.5 m/s	Temp: 24.7 ℃	Humid: 75%
+Wind: 2.2 m/s	Temp: 21.6 ℃	Humid: 70%
 -------------------------------------------------------------------------------------------------
-Christian COLEMAN              USA	4	10.064	Q	
-Favour Oghene Tejiri ASHE      NGR	5	10.067	Q	
-Kyree KING                     USA	3	10.086	Q	
-Simon VERHERSTRAETEN           BEL	1	10.123	out	
-Romell GLAVE                   GBR	6	10.123	out	
-Felipe BARDI                   BRA	8	10.126	out	
-Emmanuel ESEME                 CMR	2	10.136	out	
-Jose GONZALEZ                  DOM	7	10.176	out	
+Christian COLEMAN              USA	5	9.883	Q	
+Courtney LINDSEY               USA	4	9.989	Q	
+Kenneth BEDNAREK               USA	8	9.994	Q	
+Emmanuel MATADI                LBR	2	10.016	q	
+Christian MILLER               USA	1	10.027	q	
+Duan ASEMOTA                   CAN	7	10.038	out	
+Rohan WATSON                   JAM	3	10.043	out	
+Akihiro HIGASHIDA              JPN	6	10.104	out	
 
 Heat 3
-Wind: 0.0 m/s	Temp: 23.5 ℃	Humid: 74%
+Wind: 0.3 m/s	Temp: 27.8 ℃	Humid: 78%
 -------------------------------------------------------------------------------------------------
-Kenneth BEDNAREK               USA	2	9.934	Q	
-Akani SIMBINE                  RSA	4	9.957	Q	
-Kendal WILLIAMS                USA	8	10.017	Q	
-Brandon HICKLIN                USA	1	10.083	out	
-Pjai AUSTIN                    USA	6	10.104	out	
-Aaron BROWN                    CAN	5	10.142	out	
-Ali Anwar Ali AL BALUSHI       OMA	7	10.186	out	
-Akihiro HIGASHIDA              JPN	3	10.198	out	
+Ferdinand OMANYALA             KEN	1	9.996	Q	
+Chituru ALI                    ITA	5	10.006	Q	
+Akani SIMBINE                  RSA	7	10.019	Q	
+Ronnie BAKER                   USA	2	10.021	q	
+Favour Oghene Tejiri ASHE      NGR	8	10.057	out	
+Jerome BLAKE                   CAN	6	10.114	out	
+Pablo MATEO                    FRA	4	10.130	out	
+Jose GONZALEZ                  DOM	3	10.133	out	
 
 Heat 4
-Wind: 1.9 m/s	Temp: 27.3 ℃	Humid: 76%
+Wind: 0.1 m/s	Temp: 24.1 ℃	Humid: 64%
 -------------------------------------------------------------------------------------------------
-Letsile TEBOGO                 BOT	1	9.91	Q	
-Joseph FAHNBULLEH              LBR	2	10.011	Q	
-Andre DE GRASSE                CAN	6	10.016	Q	
-Hiroki YANAGITA                JPN	3	10.018	q	
-Abdul-Rasheed SAMINU           GHA	7	10.033	q	
-Usheoritse ITSEKIRI            NGR	4	10.055	q	
-Louie HINCHLIFFE               GBR	5	10.074	out	
-Ryiem FORDE                    JAM	8	10.096	out	
+Letsile TEBOGO                 BOT	7	10.013	Q	
+Owen ANSAH                     GER	1	10.077	Q	
+Abdul Hakim SANI-BROWN         JPN	6	10.099	Q	
+Felipe BARDI                   BRA	2	10.102	out	
+Rikkoi BRATHWAITE              IVB	4	10.110	out	
+Jeremiah AZU                   GBR	5	10.114	out	
+Shaun MASWANGANYI              RSA	3	10.139	out	
+Aaron BROWN                    CAN	8	10.150	out	
 
 Heat 5
-Wind: 0.1 m/s	Temp: 25.5 ℃	Humid: 81%
+Wind: -1.5 m/s	Temp: 27.8 ℃	Humid: 71%
 -------------------------------------------------------------------------------------------------
-Noah LYLES                     USA	5	9.873	Q	
-Oblique SEVILLE                JAM	1	10.032	Q	
-Jeremiah AZU                   GBR	6	10.034	Q	
-Jerome BLAKE                   CAN	3	10.107	out	
-Sandrey DAVISON                JAM	2	10.114	out	
-Shaun MASWANGANYI              RSA	4	10.145	out	
-Benjamin AZAMATI               GHA	7	10.162	out	
-Courtney LINDSEY               USA	8	DQ	out	
+Kishane THOMPSON               JAM	5	10.061	Q	
+Emmanuel ESEME                 CMR	3	10.113	Q	
+Kyree KING                     USA	2	10.114	Q	
+Wanya MCCOY                    BAH	6	10.140	out	
+Ryiem FORDE                    JAM	8	10.153	out	
+Julian FORTE                   JAM	1	10.158	out	
+Romell GLAVE                   GBR	4	10.167	out	
+Joshua HARTMANN                GER	7	10.205	out	
 
 Heat 6
-Wind: -0.9 m/s	Temp: 21.4 ℃	Humid: 81%
+Wind: 1.7 m/s	Temp: 27.9 ℃	Humid: 63%
 -------------------------------------------------------------------------------------------------
-Kishane THOMPSON               JAM	8	9.921	Q	
-Benjamin RICHARDSON            RSA	7	10.089	Q	
-Abdul Hakim SANI-BROWN         JPN	2	10.103	Q	
-Julian FORTE                   JAM	3	10.14	out	
-Rikkoi BRATHWAITE              IVB	4	10.144	out	
-Joshua HARTMANN                GER	6	10.18	out	
-Erik CARDOSO                   BRA	1	10.189	out	
-Simon HANSEN                   DEN	5	10.195	out	
+Fred KERLEY                    USA	3	9.921	Q	
+Brandon HICKLIN                USA	6	9.993	Q	
+Hiroki YANAGITA                JPN	1	10.029	Q	
+Oblique SEVILLE                JAM	8	10.035	out	
+Benjamin AZAMATI               GHA	4	10.061	out	
+Simon VERHERSTRAETEN           BEL	2	10.069	out	
+Henrik LARSSON                 SWE	7	10.101	out	
+Ali Anwar Ali AL BALUSHI       OMA	5	10.114	out	SB
 
 Heat 7
-Wind: 0.4 m/s	Temp: 27.2 ℃	Humid: 77%
+Wind: -1.1 m/s	Temp: 20.4 ℃	Humid: 64%
 -------------------------------------------------------------------------------------------------
-Ferdinand OMANYALA             KEN	6	9.875	Q	
-Emmanuel MATADI                LBR	1	10.017	Q	
-Ronnie BAKER                   USA	5	10.05	Q	
-Christian MILLER               USA	2	10.071	out	
-Owen ANSAH                     GER	3	10.084	out	
-Henrik LARSSON                 SWE	8	10.091	out	
-Kayhan OZER                    TUR	7	10.196	out	
-Lamont Marcell JACOBS          ITA	4	DQ	out	
+Noah LYLES                     USA	5	10.039	Q	
+Ackeem BLAKE                   JAM	7	10.080	Q	
+Louie HINCHLIFFE               GBR	3	10.104	Q	
+Joseph FAHNBULLEH              LBR	2	10.134	out	
+Sandrey DAVISON                JAM	8	10.142	out	
+Kayinsola AJAYI                NGR	4	10.145	out	
+Kayhan OZER                    TUR	1	10.188	out	
+Usheoritse ITSEKIRI            NGR	6	10.206	out	
 
 
 *************************************************************************************************
@@ -192,62 +192,62 @@ Round-1 Results Summary
 -------------------------------------------------------------------------------------------------
 Name                           Nat.	Heat	Lane	Mark	Qual.
 -------------------------------------------------------------------------------------------------
-Noah LYLES                     USA	5	5	9.873	Q	
-Ferdinand OMANYALA             KEN	7	6	9.875	Q	
-Fred KERLEY                    USA	1	1	9.899	Q	
-Letsile TEBOGO                 BOT	4	1	9.91	Q	
-Kishane THOMPSON               JAM	6	8	9.921	Q	
-Kenneth BEDNAREK               USA	3	2	9.934	Q	
-Ackeem BLAKE                   JAM	1	2	9.955	Q	
-Akani SIMBINE                  RSA	3	4	9.957	Q	
-Joseph FAHNBULLEH              LBR	4	2	10.011	Q	
-Andre DE GRASSE                CAN	4	6	10.016	Q	
-Emmanuel MATADI                LBR	7	1	10.017	Q	
-Kendal WILLIAMS                USA	3	8	10.017	Q	
-Hiroki YANAGITA                JPN	4	3	10.018	q	
-Oblique SEVILLE                JAM	5	1	10.032	Q	
-Abdul-Rasheed SAMINU           GHA	4	7	10.033	q	
-Jeremiah AZU                   GBR	5	6	10.034	Q	
-Ronnie BAKER                   USA	7	5	10.05	Q	
-Usheoritse ITSEKIRI            NGR	4	4	10.055	q	
-Christian COLEMAN              USA	2	4	10.064	Q	
-Favour Oghene Tejiri ASHE      NGR	2	5	10.067	Q	
-Christian MILLER               USA	7	2	10.071	out	
-Louie HINCHLIFFE               GBR	4	5	10.074	out	
-Chituru ALI                    ITA	1	8	10.077	Q	
-Brandon HICKLIN                USA	3	1	10.083	out	
-Owen ANSAH                     GER	7	3	10.084	out	
-Kyree KING                     USA	2	3	10.086	Q	
-Benjamin RICHARDSON            RSA	6	7	10.089	Q	
-Henrik LARSSON                 SWE	7	8	10.091	out	
-Kayinsola AJAYI                NGR	1	5	10.093	out	
-Ryiem FORDE                    JAM	4	8	10.096	out	
-Wanya MCCOY                    BAH	1	4	10.1	out	
-Duan ASEMOTA                   CAN	1	6	10.101	out	
-Abdul Hakim SANI-BROWN         JPN	6	2	10.103	Q	
-Pjai AUSTIN                    USA	3	6	10.104	out	
-Jerome BLAKE                   CAN	5	3	10.107	out	
-Sandrey DAVISON                JAM	5	2	10.114	out	
-Simon VERHERSTRAETEN           BEL	2	1	10.123	out	
-Romell GLAVE                   GBR	2	6	10.123	out	
-Pablo MATEO                    FRA	1	7	10.124	out	
-Felipe BARDI                   BRA	2	8	10.126	out	
-Emmanuel ESEME                 CMR	2	2	10.136	out	
-Julian FORTE                   JAM	6	3	10.14	out	
-Aaron BROWN                    CAN	3	5	10.142	out	
-Rikkoi BRATHWAITE              IVB	6	4	10.144	out	
-Shaun MASWANGANYI              RSA	5	4	10.145	out	
-Benjamin AZAMATI               GHA	5	7	10.162	out	
-Rohan WATSON                   JAM	1	3	10.171	out	
-Jose GONZALEZ                  DOM	2	7	10.176	out	
-Joshua HARTMANN                GER	6	6	10.18	out	
-Ali Anwar Ali AL BALUSHI       OMA	3	7	10.186	out	
-Erik CARDOSO                   BRA	6	1	10.189	out	
-Simon HANSEN                   DEN	6	5	10.195	out	
-Kayhan OZER                    TUR	7	7	10.196	out	
-Akihiro HIGASHIDA              JPN	3	3	10.198	out	
-Lamont Marcell JACOBS          ITA	7	4	DQ	out	
-Courtney LINDSEY               USA	5	8	DQ	out	
+Christian COLEMAN              USA	2	5	9.883	Q	
+Fred KERLEY                    USA	6	3	9.921	Q	
+Kendal WILLIAMS                USA	1	1	9.969	Q	
+Lamont Marcell JACOBS          ITA	1	5	9.970	Q	
+Courtney LINDSEY               USA	2	4	9.989	Q	
+Brandon HICKLIN                USA	6	6	9.993	Q	
+Kenneth BEDNAREK               USA	2	8	9.994	Q	
+Ferdinand OMANYALA             KEN	3	1	9.996	Q	
+Chituru ALI                    ITA	3	5	10.006	Q	
+Letsile TEBOGO                 BOT	4	7	10.013	Q	
+Pjai AUSTIN                    USA	1	8	10.014	Q	
+Emmanuel MATADI                LBR	2	2	10.016	q	
+Akani SIMBINE                  RSA	3	7	10.019	Q	
+Ronnie BAKER                   USA	3	2	10.021	q	
+Christian MILLER               USA	2	1	10.027	q	
+Hiroki YANAGITA                JPN	6	1	10.029	Q	
+Benjamin RICHARDSON            RSA	1	3	10.030	out	
+Oblique SEVILLE                JAM	6	8	10.035	out	
+Duan ASEMOTA                   CAN	2	7	10.038	out	
+Noah LYLES                     USA	7	5	10.039	Q	
+Rohan WATSON                   JAM	2	3	10.043	out	
+Favour Oghene Tejiri ASHE      NGR	3	8	10.057	out	
+Benjamin AZAMATI               GHA	6	4	10.061	out	
+Kishane THOMPSON               JAM	5	5	10.061	Q	
+Simon VERHERSTRAETEN           BEL	6	2	10.069	out	
+Abdul-Rasheed SAMINU           GHA	1	7	10.070	out	
+Owen ANSAH                     GER	4	1	10.077	Q	
+Ackeem BLAKE                   JAM	7	7	10.080	Q	
+Andre DE GRASSE                CAN	1	6	10.080	out	
+Abdul Hakim SANI-BROWN         JPN	4	6	10.099	Q	
+Henrik LARSSON                 SWE	6	7	10.101	out	
+Felipe BARDI                   BRA	4	2	10.102	out	
+Louie HINCHLIFFE               GBR	7	3	10.104	Q	
+Akihiro HIGASHIDA              JPN	2	6	10.104	out	
+Rikkoi BRATHWAITE              IVB	4	4	10.110	out	
+Emmanuel ESEME                 CMR	5	3	10.113	Q	
+Kyree KING                     USA	5	2	10.114	Q	
+Jerome BLAKE                   CAN	3	6	10.114	out	
+Ali Anwar Ali AL BALUSHI       OMA	6	5	10.114	out	SB
+Jeremiah AZU                   GBR	4	5	10.114	out	
+Simon HANSEN                   DEN	1	4	10.129	out	
+Pablo MATEO                    FRA	3	4	10.130	out	
+Jose GONZALEZ                  DOM	3	3	10.133	out	
+Joseph FAHNBULLEH              LBR	7	2	10.134	out	
+Shaun MASWANGANYI              RSA	4	3	10.139	out	
+Wanya MCCOY                    BAH	5	6	10.140	out	
+Sandrey DAVISON                JAM	7	8	10.142	out	
+Kayinsola AJAYI                NGR	7	4	10.145	out	
+Aaron BROWN                    CAN	4	8	10.150	out	
+Ryiem FORDE                    JAM	5	8	10.153	out	
+Julian FORTE                   JAM	5	1	10.158	out	
+Romell GLAVE                   GBR	5	4	10.167	out	
+Kayhan OZER                    TUR	7	1	10.188	out	
+Joshua HARTMANN                GER	5	7	10.205	out	
+Usheoritse ITSEKIRI            NGR	7	6	10.206	out	
+Erik CARDOSO                   BRA	1	2	DQ	out	
 
 
 ##################################################################################################
@@ -259,36 +259,36 @@ Name                           Nat.	Prev.	Lane
 -------------------------------------------------------------------------------------------------
 Heat 1
 -------------------------------------------------------------------------------------------------
-Kishane THOMPSON               JAM	9.921	1	
-Ackeem BLAKE                   JAM	9.955	2	
-Chituru ALI                    ITA	10.077	3	
-Benjamin RICHARDSON            RSA	10.089	4	
-Usheoritse ITSEKIRI            NGR	10.055	5	
-Emmanuel MATADI                LBR	10.017	6	
-Noah LYLES                     USA	9.873	7	DEFENDING CHAMPION
-Hiroki YANAGITA                JPN	10.018	8	
+Christian COLEMAN              USA	9.883	1	
+Brandon HICKLIN                USA	9.993	2	
+Ackeem BLAKE                   JAM	10.080	3	
+Letsile TEBOGO                 BOT	10.013	4	
+Ronnie BAKER                   USA	10.021	5	
+Kyree KING                     USA	10.114	6	
+Hiroki YANAGITA                JPN	10.029	7	
+Ferdinand OMANYALA             KEN	9.996	8	
 
 Heat 2
 -------------------------------------------------------------------------------------------------
-Andre DE GRASSE                CAN	10.016	1	
-Ronnie BAKER                   USA	10.05	2	
-Abdul Hakim SANI-BROWN         JPN	10.103	3	
-Letsile TEBOGO                 BOT	9.91	4	
-Favour Oghene Tejiri ASHE      NGR	10.067	5	
-Fred KERLEY                    USA	9.899	6	
-Joseph FAHNBULLEH              LBR	10.011	7	
-Abdul-Rasheed SAMINU           GHA	10.033	8	
+Louie HINCHLIFFE               GBR	10.104	1	
+Pjai AUSTIN                    USA	10.014	2	
+Akani SIMBINE                  RSA	10.019	3	
+Chituru ALI                    ITA	10.006	4	
+Lamont Marcell JACOBS          ITA	9.970	5	
+Noah LYLES                     USA	10.039	6	DEFENDING CHAMPION
+Owen ANSAH                     GER	10.077	7	
+Kendal WILLIAMS                USA	9.969	8	
 
 Heat 3
 -------------------------------------------------------------------------------------------------
-Kenneth BEDNAREK               USA	9.934	1	
-Christian COLEMAN              USA	10.064	2	
-Jeremiah AZU                   GBR	10.034	3	
-Akani SIMBINE                  RSA	9.957	4	
-Ferdinand OMANYALA             KEN	9.875	5	
-Oblique SEVILLE                JAM	10.032	6	
-Kendal WILLIAMS                USA	10.017	7	
-Kyree KING                     USA	10.086	8	
+Kishane THOMPSON               JAM	10.061	1	
+Fred KERLEY                    USA	9.921	2	
+Kenneth BEDNAREK               USA	9.994	3	
+Christian MILLER               USA	10.027	4	
+Emmanuel ESEME                 CMR	10.113	5	
+Courtney LINDSEY               USA	9.989	6	
+Abdul Hakim SANI-BROWN         JPN	10.099	7	
+Emmanuel MATADI                LBR	10.016	8	
 
 
 *************************************************************************************************
@@ -298,40 +298,40 @@ Semi-final Results
 Name                           Nat.	Lane	Mark	Qual.
 -------------------------------------------------------------------------------------------------
 Heat 1
-Wind: -0.4 m/s	Temp: 21.1 ℃	Humid: 64%
+Wind: -1.6 m/s	Temp: 19.1 ℃	Humid: 82%
 -------------------------------------------------------------------------------------------------
-Kishane THOMPSON               JAM	1	9.878	Q	
-Benjamin RICHARDSON            RSA	4	9.905	Q	
-Noah LYLES                     USA	7	9.911	q	
-Emmanuel MATADI                LBR	6	9.974	q	
-Ackeem BLAKE                   JAM	2	10.012	out	
-Chituru ALI                    ITA	3	10.033	out	
-Hiroki YANAGITA                JPN	8	10.057	out	
-Usheoritse ITSEKIRI            NGR	5	10.078	out	
+Letsile TEBOGO                 BOT	4	9.951	Q	
+Ferdinand OMANYALA             KEN	8	9.961	Q	
+Christian COLEMAN              USA	1	9.998	out	
+Ackeem BLAKE                   JAM	3	10.007	out	
+Brandon HICKLIN                USA	2	10.060	out	
+Ronnie BAKER                   USA	5	10.108	out	
+Kyree KING                     USA	6	10.135	out	
+Hiroki YANAGITA                JPN	7	10.211	out	
 
 Heat 2
-Wind: -0.7 m/s	Temp: 25.4 ℃	Humid: 77%
+Wind: -1.4 m/s	Temp: 23.3 ℃	Humid: 63%
 -------------------------------------------------------------------------------------------------
-Fred KERLEY                    USA	6	9.904	Q	
-Letsile TEBOGO                 BOT	4	9.93	Q	
-Abdul Hakim SANI-BROWN         JPN	3	9.993	out	
-Favour Oghene Tejiri ASHE      NGR	5	10.038	out	
-Joseph FAHNBULLEH              LBR	7	10.042	out	
-Ronnie BAKER                   USA	2	10.045	out	
-Andre DE GRASSE                CAN	1	10.054	out	
-Abdul-Rasheed SAMINU           GHA	8	10.096	out	
+Noah LYLES                     USA	6	9.898	Q	
+Akani SIMBINE                  RSA	3	9.951	Q	
+Lamont Marcell JACOBS          ITA	5	10.012	out	
+Kendal WILLIAMS                USA	8	10.030	out	
+Chituru ALI                    ITA	4	10.090	out	
+Pjai AUSTIN                    USA	2	10.134	out	
+Owen ANSAH                     GER	7	10.146	out	
+Louie HINCHLIFFE               GBR	1	DQ	out	
 
 Heat 3
-Wind: -1.3 m/s	Temp: 19.4 ℃	Humid: 83%
+Wind: 0.2 m/s	Temp: 24.9 ℃	Humid: 70%
 -------------------------------------------------------------------------------------------------
-Akani SIMBINE                  RSA	4	9.933	Q	
-Ferdinand OMANYALA             KEN	5	9.962	Q	
-Kenneth BEDNAREK               USA	1	10.015	out	
-Christian COLEMAN              USA	2	10.064	out	
-Kendal WILLIAMS                USA	7	10.083	out	
-Jeremiah AZU                   GBR	3	10.095	out	
-Kyree KING                     USA	8	10.138	out	
-Oblique SEVILLE                JAM	6	DNF	out	
+Kishane THOMPSON               JAM	1	9.824	Q	
+Fred KERLEY                    USA	2	9.890	Q	
+Kenneth BEDNAREK               USA	3	9.935	q	
+Abdul Hakim SANI-BROWN         JPN	7	9.950	q	PB
+Emmanuel MATADI                LBR	8	9.962	out	
+Christian MILLER               USA	4	10.013	out	
+Emmanuel ESEME                 CMR	5	10.026	out	
+Courtney LINDSEY               USA	6	10.089	out	
 
 
 *************************************************************************************************
@@ -340,30 +340,30 @@ Semi-final Results Summary
 -------------------------------------------------------------------------------------------------
 Name                           Nat.	Heat	Lane	Mark	Qual.
 -------------------------------------------------------------------------------------------------
-Kishane THOMPSON               JAM	1	1	9.878	Q	
-Fred KERLEY                    USA	2	6	9.904	Q	
-Benjamin RICHARDSON            RSA	1	4	9.905	Q	
-Noah LYLES                     USA	1	7	9.911	q	
-Letsile TEBOGO                 BOT	2	4	9.93	Q	
-Akani SIMBINE                  RSA	3	4	9.933	Q	
-Ferdinand OMANYALA             KEN	3	5	9.962	Q	
-Emmanuel MATADI                LBR	1	6	9.974	q	
-Abdul Hakim SANI-BROWN         JPN	2	3	9.993	out	
-Ackeem BLAKE                   JAM	1	2	10.012	out	
-Kenneth BEDNAREK               USA	3	1	10.015	out	
-Chituru ALI                    ITA	1	3	10.033	out	
-Favour Oghene Tejiri ASHE      NGR	2	5	10.038	out	
-Joseph FAHNBULLEH              LBR	2	7	10.042	out	
-Ronnie BAKER                   USA	2	2	10.045	out	
-Andre DE GRASSE                CAN	2	1	10.054	out	
-Hiroki YANAGITA                JPN	1	8	10.057	out	
-Christian COLEMAN              USA	3	2	10.064	out	
-Usheoritse ITSEKIRI            NGR	1	5	10.078	out	
-Kendal WILLIAMS                USA	3	7	10.083	out	
-Jeremiah AZU                   GBR	3	3	10.095	out	
-Abdul-Rasheed SAMINU           GHA	2	8	10.096	out	
-Kyree KING                     USA	3	8	10.138	out	
-Oblique SEVILLE                JAM	3	6	DNF	out	
+Kishane THOMPSON               JAM	3	1	9.824	Q	
+Fred KERLEY                    USA	3	2	9.890	Q	
+Noah LYLES                     USA	2	6	9.898	Q	
+Kenneth BEDNAREK               USA	3	3	9.935	q	
+Abdul Hakim SANI-BROWN         JPN	3	7	9.950	q	PB
+Akani SIMBINE                  RSA	2	3	9.951	Q	
+Letsile TEBOGO                 BOT	1	4	9.951	Q	
+Ferdinand OMANYALA             KEN	1	8	9.961	Q	
+Emmanuel MATADI                LBR	3	8	9.962	out	
+Christian COLEMAN              USA	1	1	9.998	out	
+Ackeem BLAKE                   JAM	1	3	10.007	out	
+Lamont Marcell JACOBS          ITA	2	5	10.012	out	
+Christian MILLER               USA	3	4	10.013	out	
+Emmanuel ESEME                 CMR	3	5	10.026	out	
+Kendal WILLIAMS                USA	2	8	10.030	out	
+Brandon HICKLIN                USA	1	2	10.060	out	
+Courtney LINDSEY               USA	3	6	10.089	out	
+Chituru ALI                    ITA	2	4	10.090	out	
+Ronnie BAKER                   USA	1	5	10.108	out	
+Pjai AUSTIN                    USA	2	2	10.134	out	
+Kyree KING                     USA	1	6	10.135	out	
+Owen ANSAH                     GER	2	7	10.146	out	
+Hiroki YANAGITA                JPN	1	7	10.211	out	
+Louie HINCHLIFFE               GBR	2	1	DQ	out	
 
 
 ##################################################################################################
@@ -373,28 +373,28 @@ Final Startlist
 -------------------------------------------------------------------------------------------------
 Name                           Nat.	Prev.	Lane
 -------------------------------------------------------------------------------------------------
-Kishane THOMPSON               JAM	9.878	1	
-Letsile TEBOGO                 BOT	9.93	2	
-Emmanuel MATADI                LBR	9.974	3	
-Noah LYLES                     USA	9.911	4	DEFENDING CHAMPION
-Ferdinand OMANYALA             KEN	9.962	5	
-Akani SIMBINE                  RSA	9.933	6	
-Benjamin RICHARDSON            RSA	9.905	7	
-Fred KERLEY                    USA	9.904	8	
+Fred KERLEY                    USA	9.890	1	
+Noah LYLES                     USA	9.898	2	DEFENDING CHAMPION
+Abdul Hakim SANI-BROWN         JPN	9.950	3	
+Letsile TEBOGO                 BOT	9.951	4	
+Kenneth BEDNAREK               USA	9.935	5	
+Ferdinand OMANYALA             KEN	9.961	6	
+Kishane THOMPSON               JAM	9.824	7	
+Akani SIMBINE                  RSA	9.951	8	
 
 *************************************************************************************************
 
 Final Results Summary
 -------------------------------------------------------------------------------------------------
-Wind: 1.0 m/s	Temp: 19.8 ℃	Humid: 81%
+Wind: 0.3 m/s	Temp: 19.1 ℃	Humid: 77%
 -------------------------------------------------------------------------------------------------
 Name                           Nat.	Lane	Mark
 -------------------------------------------------------------------------------------------------
-Fred KERLEY                    USA	8	9.769	Gold            SB	
-Noah LYLES                     USA	4	9.785	Silver          	
-Akani SIMBINE                  RSA	6	9.789	Bronze          PB	
-Kishane THOMPSON               JAM	1	9.805	Certificate     	
-Ferdinand OMANYALA             KEN	5	9.812	Certificate     	
-Letsile TEBOGO                 BOT	2	9.818	Certificate     PB	
-Benjamin RICHARDSON            RSA	7	9.955	Certificate     	
-Emmanuel MATADI                LBR	3	9.972	Certificate     	
+Noah LYLES                     USA	2	9.794	Gold            	TITLE DEFENDED!
+Fred KERLEY                    USA	1	9.827	Silver          	
+Akani SIMBINE                  RSA	8	9.829	Bronze          	
+Kishane THOMPSON               JAM	7	9.839	Certificate     	
+Letsile TEBOGO                 BOT	4	9.874	Certificate     	
+Ferdinand OMANYALA             KEN	6	9.886	Certificate     	
+Kenneth BEDNAREK               USA	5	9.938	Certificate     	
+Abdul Hakim SANI-BROWN         JPN	3	10.029	Certificate     	

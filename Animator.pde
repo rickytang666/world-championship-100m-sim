@@ -340,7 +340,7 @@ class Animator
         }
         else
         {
-          result_str = str( round_to(a.results[this.index-1], 3) );
+          result_str = nf( round_to(a.results[this.index-1], 3), 0, 3 );
         }
         
         if (this.index < 3)
