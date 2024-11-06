@@ -85,7 +85,7 @@ void setup()
   // The following process will activiate only if you choose animation mode
 
   size(1100, 550);
-  textFont(createFont("Arial Bold", 40));
+  textFont(createFont("Frutiger LT Arabic 55 Roman", 40));
   frameRate(50);
   colorMode(HSB, 360, 100, 100); // Use HSB mode to enable we can use hue value scale like electromagnetic spectrum
   track_col = color(19, 95, 86);
